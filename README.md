@@ -1,8 +1,8 @@
 # ToDoApp
-Introduction
+
 Welcome to the Todo Application! This project is designed to help you manage your daily tasks efficiently by allowing you to add, edit, delete, and track the completion status of your tasks.
 
-Features
+Features:
 Add, edit, and delete tasks
 Mark tasks as completed
 View completed tasks
