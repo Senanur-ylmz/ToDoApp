@@ -21,3 +21,4 @@ Install dependencies for both server and client
 Run the server and client
 Purpose
 The purpose of this project is to provide a simple yet powerful tool for task management, making it easier to stay organized and productive.
+![image](https://github.com/user-attachments/assets/54f06dda-60a3-4ca0-b6fd-1c3620c44fe1)
