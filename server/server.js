@@ -14,7 +14,7 @@ app.use(bodyParser.json());
 app.use(cors());
 
 // MongoDB Bağlantısı
-mongoose.connect('YOUR MONGODB CONNECTION STRING!!', {
+mongoose.connect('ENTER YOUR OWN MONGODB URL!!!!!', {
         useNewUrlParser: true,
         useUnifiedTopology: true
     })

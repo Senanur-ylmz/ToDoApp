@@ -250,7 +250,7 @@ const TodoList = () => {
         </Box>
       </Collapse>
 
-      <Tabs value={tabIndex} onChange={(e, newIndex) => setTabIndex(newIndex)} aria-label="todo tabs">
+      <Tabs sx={{"width":"1000px"}} value={tabIndex} onChange={(e, newIndex) => setTabIndex(newIndex)} aria-label="todo tabs">
         <Tab label="Todo List" />
         <Tab label="Completed" />
         <Tab label="Trash Bin" />
